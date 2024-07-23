@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\A.Yamam\\source\\repos\\test\\LiskovSubstitutionPrincipleCorrect\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2FE64EC-ADDB-4E12-954D-12FAF5FDF8C4}|LiskovSubstitutionPrincipleIncorrect\\LiskovSubstitutionPrincipleIncorrect.csproj|c:\\users\\a.yamam\\source\\repos\\test\\liskovsubstitutionprinciplecorrect\\liskovsubstitutionprincipleincorrect\\shapetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2FE64EC-ADDB-4E12-954D-12FAF5FDF8C4}|LiskovSubstitutionPrincipleIncorrect\\LiskovSubstitutionPrincipleIncorrect.csproj|solutionrelative:liskovsubstitutionprincipleincorrect\\shapetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2FE64EC-ADDB-4E12-954D-12FAF5FDF8C4}|LiskovSubstitutionPrincipleIncorrect\\LiskovSubstitutionPrincipleIncorrect.csproj|c:\\users\\a.yamam\\source\\repos\\test\\liskovsubstitutionprinciplecorrect\\liskovsubstitutionprincipleincorrect\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2FE64EC-ADDB-4E12-954D-12FAF5FDF8C4}|LiskovSubstitutionPrincipleIncorrect\\LiskovSubstitutionPrincipleIncorrect.csproj|solutionrelative:liskovsubstitutionprincipleincorrect\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2902E606-D8AA-4F46-BAF9-29ED68BE00A8}|LiskovSubstitutionPrincipleCorrect\\LiskovSubstitutionPrincipleCorrect.csproj|c:\\users\\a.yamam\\source\\repos\\test\\liskovsubstitutionprinciplecorrect\\liskovsubstitutionprinciplecorrect\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2902E606-D8AA-4F46-BAF9-29ED68BE00A8}|LiskovSubstitutionPrincipleCorrect\\LiskovSubstitutionPrincipleCorrect.csproj|solutionrelative:liskovsubstitutionprinciplecorrect\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2FE64EC-ADDB-4E12-954D-12FAF5FDF8C4}|LiskovSubstitutionPrincipleIncorrect\\LiskovSubstitutionPrincipleIncorrect.csproj|c:\\users\\a.yamam\\source\\repos\\test\\liskovsubstitutionprinciplecorrect\\liskovsubstitutionprincipleincorrect\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2FE64EC-ADDB-4E12-954D-12FAF5FDF8C4}|LiskovSubstitutionPrincipleIncorrect\\LiskovSubstitutionPrincipleIncorrect.csproj|solutionrelative:liskovsubstitutionprincipleincorrect\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2902E606-D8AA-4F46-BAF9-29ED68BE00A8}|LiskovSubstitutionPrincipleCorrect\\LiskovSubstitutionPrincipleCorrect.csproj|c:\\users\\a.yamam\\source\\repos\\test\\liskovsubstitutionprinciplecorrect\\liskovsubstitutionprinciplecorrect\\shapetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2902E606-D8AA-4F46-BAF9-29ED68BE00A8}|LiskovSubstitutionPrincipleCorrect\\LiskovSubstitutionPrincipleCorrect.csproj|solutionrelative:liskovsubstitutionprinciplecorrect\\shapetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2902E606-D8AA-4F46-BAF9-29ED68BE00A8}|LiskovSubstitutionPrincipleCorrect\\LiskovSubstitutionPrincipleCorrect.csproj|c:\\users\\a.yamam\\source\\repos\\test\\liskovsubstitutionprinciplecorrect\\liskovsubstitutionprinciplecorrect\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2902E606-D8AA-4F46-BAF9-29ED68BE00A8}|LiskovSubstitutionPrincipleCorrect\\LiskovSubstitutionPrincipleCorrect.csproj|solutionrelative:liskovsubstitutionprinciplecorrect\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2902E606-D8AA-4F46-BAF9-29ED68BE00A8}|LiskovSubstitutionPrincipleCorrect\\LiskovSubstitutionPrincipleCorrect.csproj|c:\\users\\a.yamam\\source\\repos\\test\\liskovsubstitutionprinciplecorrect\\liskovsubstitutionprinciplecorrect\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2902E606-D8AA-4F46-BAF9-29ED68BE00A8}|LiskovSubstitutionPrincipleCorrect\\LiskovSubstitutionPrincipleCorrect.csproj|solutionrelative:liskovsubstitutionprinciplecorrect\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\A.Yamam\\source\\repos\\test\\LiskovSubstitutionPrincipleCorrect\\LiskovSubstitutionPrincipleIncorrect\\Rectangle.cs",
+              "RelativeDocumentMoniker": "LiskovSubstitutionPrincipleIncorrect\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\A.Yamam\\source\\repos\\test\\LiskovSubstitutionPrincipleCorrect\\LiskovSubstitutionPrincipleIncorrect\\Rectangle.cs",
+              "RelativeToolTip": "LiskovSubstitutionPrincipleIncorrect\\Rectangle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T08:00:51.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Square.cs",
+              "DocumentMoniker": "C:\\Users\\A.Yamam\\source\\repos\\test\\LiskovSubstitutionPrincipleCorrect\\LiskovSubstitutionPrincipleIncorrect\\Square.cs",
+              "RelativeDocumentMoniker": "LiskovSubstitutionPrincipleIncorrect\\Square.cs",
+              "ToolTip": "C:\\Users\\A.Yamam\\source\\repos\\test\\LiskovSubstitutionPrincipleCorrect\\LiskovSubstitutionPrincipleIncorrect\\Square.cs",
+              "RelativeToolTip": "LiskovSubstitutionPrincipleIncorrect\\Square.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwB0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T08:01:00.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShapeTest.cs",
+              "DocumentMoniker": "C:\\Users\\A.Yamam\\source\\repos\\test\\LiskovSubstitutionPrincipleCorrect\\LiskovSubstitutionPrincipleIncorrect\\ShapeTest.cs",
+              "RelativeDocumentMoniker": "LiskovSubstitutionPrincipleIncorrect\\ShapeTest.cs",
+              "ToolTip": "C:\\Users\\A.Yamam\\source\\repos\\test\\LiskovSubstitutionPrincipleCorrect\\LiskovSubstitutionPrincipleIncorrect\\ShapeTest.cs",
+              "RelativeToolTip": "LiskovSubstitutionPrincipleIncorrect\\ShapeTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T07:59:17.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Square.cs",
+              "DocumentMoniker": "C:\\Users\\A.Yamam\\source\\repos\\test\\LiskovSubstitutionPrincipleCorrect\\LiskovSubstitutionPrincipleCorrect\\Square.cs",
+              "RelativeDocumentMoniker": "LiskovSubstitutionPrincipleCorrect\\Square.cs",
+              "ToolTip": "C:\\Users\\A.Yamam\\source\\repos\\test\\LiskovSubstitutionPrincipleCorrect\\LiskovSubstitutionPrincipleCorrect\\Square.cs",
+              "RelativeToolTip": "LiskovSubstitutionPrincipleCorrect\\Square.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T07:51:47.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\A.Yamam\\source\\repos\\test\\LiskovSubstitutionPrincipleCorrect\\LiskovSubstitutionPrincipleCorrect\\Shape.cs",
+              "RelativeDocumentMoniker": "LiskovSubstitutionPrincipleCorrect\\Shape.cs",
+              "ToolTip": "C:\\Users\\A.Yamam\\source\\repos\\test\\LiskovSubstitutionPrincipleCorrect\\LiskovSubstitutionPrincipleCorrect\\Shape.cs",
+              "RelativeToolTip": "LiskovSubstitutionPrincipleCorrect\\Shape.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T07:51:33.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\A.Yamam\\source\\repos\\test\\LiskovSubstitutionPrincipleCorrect\\LiskovSubstitutionPrincipleCorrect\\Rectangle.cs",
+              "RelativeDocumentMoniker": "LiskovSubstitutionPrincipleCorrect\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\A.Yamam\\source\\repos\\test\\LiskovSubstitutionPrincipleCorrect\\LiskovSubstitutionPrincipleCorrect\\Rectangle.cs",
+              "RelativeToolTip": "LiskovSubstitutionPrincipleCorrect\\Rectangle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T07:51:15.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShapeTest.cs",
+              "DocumentMoniker": "C:\\Users\\A.Yamam\\source\\repos\\test\\LiskovSubstitutionPrincipleCorrect\\LiskovSubstitutionPrincipleCorrect\\ShapeTest.cs",
+              "RelativeDocumentMoniker": "LiskovSubstitutionPrincipleCorrect\\ShapeTest.cs",
+              "ToolTip": "C:\\Users\\A.Yamam\\source\\repos\\test\\LiskovSubstitutionPrincipleCorrect\\LiskovSubstitutionPrincipleCorrect\\ShapeTest.cs",
+              "RelativeToolTip": "LiskovSubstitutionPrincipleCorrect\\ShapeTest.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T07:49:48.318Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
